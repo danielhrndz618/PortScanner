@@ -1,0 +1,11 @@
+C:\Users\olste\OneDrive\Escritorio\Development\C#\PortScann\PortScann\bin\Debug\PortScann.exe.config
+C:\Users\olste\OneDrive\Escritorio\Development\C#\PortScann\PortScann\bin\Debug\PortScann.exe
+C:\Users\olste\OneDrive\Escritorio\Development\C#\PortScann\PortScann\bin\Debug\PortScann.pdb
+C:\Users\olste\OneDrive\Escritorio\Development\C#\PortScann\PortScann\obj\Debug\PortScann.csproj.AssemblyReference.cache
+C:\Users\olste\OneDrive\Escritorio\Development\C#\PortScann\PortScann\obj\Debug\PortScann.csproj.SuggestedBindingRedirects.cache
+C:\Users\olste\OneDrive\Escritorio\Development\C#\PortScann\PortScann\obj\Debug\PortScann.Form1.resources
+C:\Users\olste\OneDrive\Escritorio\Development\C#\PortScann\PortScann\obj\Debug\PortScann.Properties.Resources.resources
+C:\Users\olste\OneDrive\Escritorio\Development\C#\PortScann\PortScann\obj\Debug\PortScann.csproj.GenerateResource.cache
+C:\Users\olste\OneDrive\Escritorio\Development\C#\PortScann\PortScann\obj\Debug\PortScann.csproj.CoreCompileInputs.cache
+C:\Users\olste\OneDrive\Escritorio\Development\C#\PortScann\PortScann\obj\Debug\PortScann.exe
+C:\Users\olste\OneDrive\Escritorio\Development\C#\PortScann\PortScann\obj\Debug\PortScann.pdb
