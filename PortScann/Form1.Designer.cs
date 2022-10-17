@@ -75,6 +75,7 @@
             this.txt_min.Name = "txt_min";
             this.txt_min.Size = new System.Drawing.Size(41, 29);
             this.txt_min.TabIndex = 2;
+            this.txt_min.Text = "78";
             // 
             // label3
             // 
@@ -93,6 +94,7 @@
             this.txt_max.Name = "txt_max";
             this.txt_max.Size = new System.Drawing.Size(66, 29);
             this.txt_max.TabIndex = 5;
+            this.txt_max.Text = "81";
             // 
             // btn_scan
             // 
