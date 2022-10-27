@@ -9,3 +9,13 @@ C:\Users\olste\OneDrive\Escritorio\Development\C#\PortScann\PortScann\obj\Debug\
 C:\Users\olste\OneDrive\Escritorio\Development\C#\PortScann\PortScann\obj\Debug\PortScann.csproj.CoreCompileInputs.cache
 C:\Users\olste\OneDrive\Escritorio\Development\C#\PortScann\PortScann\obj\Debug\PortScann.exe
 C:\Users\olste\OneDrive\Escritorio\Development\C#\PortScann\PortScann\obj\Debug\PortScann.pdb
+C:\Users\Drannik\Source\Repos\PortScanner\PortScann\bin\Debug\PortScann.exe.config
+C:\Users\Drannik\Source\Repos\PortScanner\PortScann\bin\Debug\PortScann.exe
+C:\Users\Drannik\Source\Repos\PortScanner\PortScann\bin\Debug\PortScann.pdb
+C:\Users\Drannik\Source\Repos\PortScanner\PortScann\obj\Debug\PortScann.csprojAssemblyReference.cache
+C:\Users\Drannik\Source\Repos\PortScanner\PortScann\obj\Debug\PortScann.Form1.resources
+C:\Users\Drannik\Source\Repos\PortScanner\PortScann\obj\Debug\PortScann.Properties.Resources.resources
+C:\Users\Drannik\Source\Repos\PortScanner\PortScann\obj\Debug\PortScann.csproj.GenerateResource.cache
+C:\Users\Drannik\Source\Repos\PortScanner\PortScann\obj\Debug\PortScann.csproj.CoreCompileInputs.cache
+C:\Users\Drannik\Source\Repos\PortScanner\PortScann\obj\Debug\PortScann.exe
+C:\Users\Drannik\Source\Repos\PortScanner\PortScann\obj\Debug\PortScann.pdb

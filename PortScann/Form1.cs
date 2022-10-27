@@ -18,7 +18,8 @@ namespace PortScann
             InitializeComponent();
             this.run = true;
         }
-        public bool run; 
+        public bool run;
+        bool vai = false;
 
 
         public void clearComponents()
@@ -61,6 +62,35 @@ namespace PortScann
         private void button1_Click(object sender, EventArgs e)
         {
             this.run = false;
+        }
+
+        private void pictureBox1_MouseDown(object sender, MouseEventArgs e)
+        {
+            vai = true;
+        }
+
+        private void pictureBox1_MouseMove(object sender, MouseEventArgs e)
+        {
+            if(vai == true)
+            {
+                this.Location = Cursor.Position;
+            }
+
+        }
+
+        private void pictureBox1_MouseUp(object sender, MouseEventArgs e)
+        {
+            vai = false;
+        }
+
+        private void pictureBox2_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
+        private void pictureBox2_Click_1(object sender, EventArgs e)
+        {
+            this.Close();
         }
     }
 }
